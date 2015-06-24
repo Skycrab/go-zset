@@ -1,2 +1,5 @@
-# go-zset
-go data structure same as redis sorted set
+## go-zset
+golang的sorted set实现，其中skiplist的实现基本和redis一致(参考https://github.com/xjdrew/lua-zset)
+
+## test
+go test
